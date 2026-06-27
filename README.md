@@ -1,5 +1,9 @@
 # webhooks-engine
 
+[![CI](https://github.com/rovidev95/rovidev-webhooks-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/rovidev95/rovidev-webhooks-engine/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6)
+
 Idempotent webhook processing for Node.js. Handles the parts that usually cause
 bugs with providers like Stripe: duplicate deliveries, transient failures and
 signature verification.
@@ -99,6 +103,11 @@ npm run example     # small Express server on :3000
 # or
 docker compose up --build
 ```
+
+## Custom work
+
+Need a webhook/payment integration built or reviewed for your stack?
+Get in touch at [rovidev.com](https://rovidev.com).
 
 ## License
 
