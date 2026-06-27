@@ -13,6 +13,8 @@ than once for the same event. This library makes sure an event is only applied
 once, retries transient errors with backoff, and sends anything that keeps
 failing to a dead-letter sink you control.
 
+![Test suite](docs/tests.png)
+
 ## Install
 
 ```bash
