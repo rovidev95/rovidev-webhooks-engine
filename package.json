@@ -7,7 +7,7 @@
   "homepage": "https://rovidev.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rovidev95/rovidev-webhooks-engine.git"
+    "url": "git+https://github.com/rovidev95/rovidev-webhooks-engine.git"
   },
   "keywords": [
     "webhooks",

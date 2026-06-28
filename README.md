@@ -17,10 +17,8 @@ failing to a dead-letter sink you control.
 
 ## Install
 
-Install straight from GitHub (the package builds itself on install):
-
 ```bash
-npm install github:rovidev95/rovidev-webhooks-engine
+npm install @rovidev/webhooks-engine
 # only if you use the Redis store:
 npm install ioredis
 ```
