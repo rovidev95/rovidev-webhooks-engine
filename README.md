@@ -1,6 +1,7 @@
 # webhooks-engine
 
 [![CI](https://github.com/rovidev95/rovidev-webhooks-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/rovidev95/rovidev-webhooks-engine/actions/workflows/ci.yml)
+[![npm](https://img.shields.io/npm/v/@rovidev/webhooks-engine)](https://www.npmjs.com/package/@rovidev/webhooks-engine)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6)
 
